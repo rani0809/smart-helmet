@@ -29,7 +29,7 @@ SMART-HELMET-IOT has a vast future scope some of which under development are :
 
 ***Glad to see you here! Show some love by [starring](https://github.com/rani0809/smart-helmet) this repo.***
 
-[![GitHub](https://img.shields.io/static/v1.svg?label=follow&message=@rani0809&color=grey&logo=github&style=flat&logoColor=white&colorA=blue)](https://www.github.com/rani0809)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@rani0809&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/99irani_/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@rani-dhage&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/rani-dhage/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@rani0809&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/Rani08999)
+[![GitHub](https://img.shields.io/static/v1.svg?label=follow&message=@rani080999&color=grey&logo=github&style=flat&logoColor=white&colorA=blue)](https://www.github.com/rani0809)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@rani0809&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/99irani_/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@rani-dhage&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/rani-dhage/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@rani0809&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/Rani08999)
 
 
 
