@@ -1,20 +1,23 @@
-# Smart-Helmet
+# Smart-Helmet for safe driving
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/rani0809) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/rani0809)
+
+
 ![ScreenShot](https://github.com/rani0809/smart-helmet/blob/main/git-start.jpg?raw=true)
 
 
 A smart helmet is a type of protective headgear used by the rider which makes bike driving safer than before. The main purpose of this helmet is to provide safety for the rider.
  
+<b>Tech Stack</b>
+  - NodeMCU
+  - C
+  - IOT
+  - Ardino nano
 
-    
-=====
+ <br>   
 
-| NodeMCU  ||  C++ ||  IOT  ||  WIFI 
-
-=====
 
 ![ScreenShot](https://github.com/rani0809/smart-helmet/blob/main/git-mid.jpg?raw=true)
 
-===== 
 
 
 **Features:**
