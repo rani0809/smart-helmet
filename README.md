@@ -11,7 +11,7 @@ A smart helmet is a type of protective headgear used by the rider which makes bi
 
 =====
 
-![ScreenShot](https://github.com/rani0809/smart-helmet/blob/main/git-start.jpg?raw=true)
+![ScreenShot](https://github.com/rani0809/smart-helmet/blob/main/git-mid.jpg?raw=true)
 
 ===== 
 **Features:**
